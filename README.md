@@ -1,13 +1,21 @@
-# Hi, I'm Masaya
+# Hi, I'm Masaya Dake
 
-Incoming Master's student at the University of Tsukuba, focusing on programming languages and type systems.
-Focused on formalizing type systems and bridging theory and practice.
+M.S. Student at the University of Tsukuba.
+I'm interested in programming languages, type systems, formal methods, and program analysis. 
+Currently, I'm exploring programming language theory and mechanized formalization using Lean.
 
-## Interests
+## Research Interests
+- Programming Languages
 - Type Systems
+- Program Analysis
 - Formal Methods
 - Proof Assistants (Lean)
 
 ## Projects
 - Bidirectional Typing in Lean (soundness & uniqueness proofs)
-- TaPL Formalization (in progress)
+- Types and Programming Languages (TaPL) Formalization (ongoing)
+
+## Links
+- 📧Email: [s2620637@u.tsukuba.ac.jp](mailto:s2620637@u.tsukuba.ac.jp)
+- 💼LinkedIn: https://linkedin.com/in/masaya-dake
+- 💻 GitHub: https://github.com/mdk-aza
