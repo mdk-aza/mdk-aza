@@ -16,6 +16,6 @@ Currently, I'm exploring programming language theory and mechanized formalizatio
 - Types and Programming Languages (TaPL) Formalization (ongoing)
 
 ## Links
-- 📧Email: [s2620637@u.tsukuba.ac.jp](mailto:s2620637@u.tsukuba.ac.jp)
+- 📧Email: [dake.masaya.tkb_gw@u.tsukuba.ac.jp](mailto:dake.masaya.tkb_gw@u.tsukuba.ac.jp)
 - 💼LinkedIn: https://linkedin.com/in/masaya-dake
 - 💻 GitHub: https://github.com/mdk-aza
